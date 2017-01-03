@@ -1,0 +1,42 @@
+{
+  "author": {
+    "email": "npm@contractormario.com",
+    "name": "Mariusz Przybylski"
+  },
+  "bugs": {
+    "url": "https://github.com/contractormario/lightwish/issues"
+  },
+  "dependencies": {
+  },
+  "description": "Lightweight web server. Inspired by Nginx and Express.",
+  "devDependencies": {
+  },
+  "directories": {},
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "homepage": "http://contractormario.com/lightwish/",
+  "keywords": [
+      "express",
+      "nginx",
+      "framework",
+      "server",
+      "web",
+      "rest",
+      "restful",
+      "router",
+      "api"
+  ],
+  "license": "MIT",
+  "name": "lightwish",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contractormario/lightwish.git"
+  },
+  "scripts": {
+  },
+  "version": "0.1.0"
+}
